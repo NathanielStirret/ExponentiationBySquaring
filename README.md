@@ -6,7 +6,7 @@
 
 ## Divide and Conquer
 
-This algorithm works by splitting the exponent into two parts of the same base, each with half the power. It continues dividing the problem until each part becomes trivial, and then multiplies the results back together
+This algorithm works by splitting the exponent into two parts of the same base, each with half the power if its even, if its odd then it is base *base^n-1. It continues dividing the problem until each part becomes trivial, and then multiplies the results back together
 
 ### Video
 
