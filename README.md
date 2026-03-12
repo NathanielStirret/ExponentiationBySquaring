@@ -2,7 +2,7 @@
 
 ## Description
 
-“This program implements a power algorithm, an algorithm used for efficient computation of exponents by dividing the problem into smaller sub‑parts.
+This program implements a power algorithm, an algorithm used for efficient computation of exponents by dividing the problem into smaller sub‑parts.
 
 ## Divide and Conquer
 
