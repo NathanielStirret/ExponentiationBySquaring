@@ -2,11 +2,11 @@
 
 ## Description
 
-This program implements a power algorithum, an algorithm that has been used for easy computation of powers by divideing the problem up in to smaller sub parts
+“This program implements a power algorithm, an algorithm used for efficient computation of exponents by dividing the problem into smaller sub‑parts.
 
 ## Divide and Conquer
 
-This algorithm splits the problem by by splitting the exponent by int to two parts of the same base with half of the power. then it does this untill each part is trivial and multiplys it back togeather 
+This algorithm works by splitting the exponent into two parts of the same base, each with half the power. It continues dividing the problem until each part becomes trivial, and then multiplies the results back together
 
 ### Video
 
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Exponentiation_by_squaring
 
 ## Program
 
-This program takes a user inputted base and power, then evaluates the expression.
+This program takes a user‑inputted base and exponent, then evaluates the expression.
 
 ### Running it
 
